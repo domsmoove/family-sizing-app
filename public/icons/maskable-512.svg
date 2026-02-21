@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Family Size Vault maskable icon">
+  <rect width="512" height="512" fill="#134e4a" />
+  <rect x="64" y="64" width="384" height="384" rx="96" fill="#0f766e" />
+  <circle cx="256" cy="206" r="58" fill="#ecfeff" />
+  <rect x="144" y="284" width="224" height="116" rx="48" fill="#ecfeff" />
+</svg>
